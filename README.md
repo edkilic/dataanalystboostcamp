@@ -9,7 +9,7 @@ Analizler, veri temizleme, görselleştirme ve raporlama süreçlerini kapsamakt
 
 Kaynak: Bootcamp kapsamında sağlanan örnek veri setleri
 
-### İçerik:
+İçerik:
 
 Genç üniversiteli eğitim yardımı verileri 🎓
 
