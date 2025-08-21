@@ -5,6 +5,7 @@ Bootcamp süresince veriler Looker Studio ve BigQuery kullanılarak analiz edilm
 Analizler, veri temizleme, görselleştirme ve raporlama süreçlerini kapsamaktadır.
 
 
+
 ## 🗂️ Dataset
 
 Kaynak: Bootcamp kapsamında sağlanan örnek veri setleri
@@ -18,11 +19,13 @@ Genç üniversiteli eğitim yardımı verileri 🎓
 Satış, kullanıcı ve performans göstergeleri
 
 
+
 ## 🎯 Proje Amacı
 
 Looker Studio ve BigQuery kullanarak interaktif görselleştirmeler oluşturmak 🎨
 
 İş kararlarını destekleyen veriye dayalı analizler yapmak 📈
+
 
 
 ## 💻 Kullanılan Teknolojiler
@@ -36,6 +39,7 @@ Looker Studio ve BigQuery kullanarak interaktif görselleştirmeler oluşturmak 
 ✅ Veri Temizleme ve Ön İşleme
 
 ✅ Veri Görselleştirme ve Dashboard Oluşturma
+
 
 
 ## 🔍 Yapılan Analizler ve Adımlar
@@ -58,6 +62,7 @@ Korelasyonlar ve öne çıkan göstergeler belirlendi
 Looker Studio ile interaktif tablolar ve dashboard’lar oluşturuldu
 
 Önemli metrikler ve performans göstergeleri grafiklerle sunuldu
+
 
 
 ## 📌 Sonuçlar ve Yorumlar
@@ -83,6 +88,7 @@ Dağılımı göstermek için pasta grafikleri kullanıldı 🥧
 Analizler, BigQuery ile veri sorgulama ve Looker Studio ile görselleştirme kullanılarak gerçekleştirildi 💻
 
 Tüm sonuçlar, iş kararlarını destekleyen interaktif raporlar hâline getirildi 📈
+
 
 
 ## 🌟 Proje Özellikleri
